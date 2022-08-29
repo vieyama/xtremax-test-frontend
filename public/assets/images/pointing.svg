@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85 104" width="85" height="104">
+	<title>New Project</title>
+	<defs>
+		<image  width="31" height="31" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAMAAAAocOYLAAAAAXNSR0IB2cksfwAAADNQTFRF////ZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2A4E19KAAAABF0Uk5TAA9/L/+vT29fP8/vH5+/j9+ZpODeAAAA3ElEQVR4nH2T2xaFIAhEvWWiqf3/1x61AD1R89BauguYSZWapU2TVa8yrsm8863zTQB+70/rhkaDABMOzkUPJl08hQNapTBjSfSCjF1CnmUeyXYSuaYBioQLzx+pZSlUi8orwC2je8a4uhM40DcaQrtprHm2/PQT1cEDeUqb97j3nfsyT+PT9yDxqX9FXmkrjfn/GliyC3o1NDoAVuQTcJKfWilLzk/On+JQWsLuJL6JnP3IuJu/ZGTMB7T9kNLOLxWG/Zwxnv/AvnX26qm4+npoGPm4fzaXkpf7+wM5Egs/olRO2wAAAABJRU5ErkJggg=="/>
+		<image  width="45" height="71" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAABHCAMAAACkqz6UAAAAAXNSR0IB2cksfwAAADNQTFRF////6lpa6lpa6lpa6lpa6lpa6lpa6lpa6lpa6lpa6lpa6lpa6lpa6lpa6lpa6lpa6lpaeuFsRwAAABF0Uk5TAA8/L3+//+9vH9/PX5+vj09FTHfLAAABYklEQVR4nM2W25aDIAxFASEoter/f+2UCoqQQNKnOa/udVbuqFQrbaI08qXWZB0keTcvPVTbAE+9Vpr10CrgvKl9s9zUwpZgYwKN/ZuGP7ISGOAtgQGKYOYhDGAyPDFg8Lm3Lw6dQ19ZcI6F6kotJ7EGiDO2sen9M0tsGIIkkBjKLqBX5cbQJauwDaDklAD+VzR3SqI2QeNjBTl7k2V4i5MkGO8YNmffs+LeH2xaSzZt++4ld2bPA7TwYJ/uCW/EdyU5KNerwslz41z6S9fVVHq8buHX+z0uYmk9Nn++UwNzXz3jojetb15b981r6655a90zn1uYNg8ITJvjvxwLPi24NTWKB0Gjo+gIGP87MCSNLNFGw8iGdv/x6vXfe7AyTxjrealni7Cel3q0iGrMrbJFneol6buKdGNu3fe8W72sXMV2YzClQQ+c33WVE6Vmr9Y3UU6Kpw5uiqccM8VTC5HiH2MuMwztQnzbAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: #000000 } 
+		.s1 { fill: #ea5a5a } 
+		.s2 { fill: #282c37 } 
+	</style>
+	<use id="&lt;Group&gt;" href="#img1" x="27" y="32"/>
+	<use id="&lt;Group&gt;" href="#img2" x="21" y="16"/>
+	<path id="Shape 1 copy" class="s0" d="m44 57c-9.4 0-17-7.6-17-17 0-9.4 7.6-17 17-17 9.4 0 17 7.6 17 17 0 9.4-7.6 17-17 17z"/>
+	<path id="Shape 1" class="s1" d="m44 54.3c-7.9 0-14.3-6.4-14.3-14.3 0-7.9 6.4-14.3 14.3-14.3 7.9 0 14.3 6.4 14.3 14.3 0 7.9-6.4 14.3-14.3 14.3z"/>
+	<path id="Shape 1 copy 2" class="s2" d="m44 52c-6.8 0-12.3-5.4-12.3-12 0-6.6 5.5-12 12.3-12 6.8 0 12.3 5.4 12.3 12 0 6.6-5.5 12-12.3 12z"/>
+	<path id="Shape 1 copy 3" class="s1" d="m44 49.7c-5.5 0-10-4.3-10-9.7 0-5.4 4.5-9.7 10-9.7 5.5 0 10 4.3 10 9.7 0 5.4-4.5 9.7-10 9.7z"/>
+	<path id="Shape 1 copy 4" class="s2" d="m44 46.9c-3.9 0-7-3.1-7-6.9 0-3.8 3.1-6.9 7-6.9 3.9 0 7 3.1 7 6.9 0 3.8-3.1 6.9-7 6.9z"/>
+</svg>

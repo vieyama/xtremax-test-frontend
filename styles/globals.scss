@@ -1,0 +1,22 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+  overflow: hidden;
+}
+
+@import "../components/Layout/style.scss";
+
+.p-0 {
+  padding: 0px;
+}
+
+.leaflet-tooltip {
+  background-color: #272727;
+  border: 1px solid #272727;
+  border-radius: 5px;
+  color: #fff;
+}

@@ -1,0 +1,11 @@
+[
+  { "location": [1.28692, 103.85457], "name": "Merlion" },
+  { "location": [1.287466, 103.851424], "name": "Asian Civilisations Museum" },
+  { "location": [1.290555, 103.846188], "name": "Clarke Quay" },
+  { "location": [1.295526, 103.845331], "name": "Fort Canning Park" },
+  { "location": [1.302279, 103.837399], "name": "Orchard Road" },
+  { "location": [1.289332, 103.863152], "name": "Singapore Flyer" },
+  { "location": [1.283099, 103.860295], "name": "Marina Bay Sands" },
+  { "location": [1.28179, 103.863954], "name": "Gardens By The Bay" },
+  { "location": [1.284193, 103.843362], "name": "Chinatown" }
+]

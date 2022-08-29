@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 45" width="44" height="45">
+	<title>New Project</title>
+	<defs>
+		<image  width="31" height="31" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAfCAMAAAAocOYLAAAAAXNSR0IB2cksfwAAADNQTFRF////ZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2AZH2A4E19KAAAABF0Uk5TAD9vf08fr//fDy+/78+fX4+DJztbAAAA50lEQVR4nH2TWQLDIAhEMe5LxPuftiSNBtR2/uAFHJEAMKlDk4yFnZTzXeGIM03ZcxUtsfazzsRwXTC1SH8x++DYYrL5dWnfMw2FEUOP282H8/r0i2fPWF6eibgSNEtdFa0H5jGKAGNU5GCc1us0GwdCHO6q/d5TAQwDDdR8K2r/5vLMC1Wnwvg0eZqZevFSTxNBHs+cuhfJ7cTl95Xd/9KJp+D463Ef0fyS9Cce24n389eMgR+g7tVkCSMity4nb1b6lju/1VjQmDe0IFvwtuDA9x/ABInb8oexyZW6/UUtapdz04rlPorEFOPCt1n7AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Quest." href="#img1" x="6" y="6"/>
+</svg>

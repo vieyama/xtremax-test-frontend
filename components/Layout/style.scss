@@ -1,0 +1,114 @@
+.layout-container {
+  display: flex;
+  .sidebar {
+    display: flex;
+    background: #282c37;
+
+    .icon-container {
+      background: #313541;
+
+      .icon-wrapper {
+        padding: 20px 30px;
+        display: flex;
+        width: 100px;
+        height: 90px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        .icon-title {
+          color: white;
+          text-align: center;
+        }
+      }
+      .active {
+        background: #72cdd2;
+      }
+    }
+
+    .sidebar-menu {
+      .filter-string {
+        height: 90px;
+        padding: 20px 30px;
+        color: #647d80;
+        width: 350px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+      }
+
+      .menu-string {
+        color: white;
+        ul {
+          list-style: none;
+        }
+        li {
+          cursor: pointer;
+          padding: 20px 30px;
+          display: flex;
+          flex-direction: row;
+          justify-content: space-between;
+        }
+        .active {
+          background: #1c1f27;
+          color: #92d72e;
+        }
+        .parent-menu {
+          padding-left: 25px;
+          color: #647d80;
+        }
+      }
+    }
+  }
+
+  .main {
+    width: 100%;
+
+    .header {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      padding: 20px 40px;
+      h1 {
+        font-size: 24px;
+      }
+    }
+
+    .overlay-detail {
+      width: 335px;
+      background: #313541;
+      height: 100%;
+      position: fixed;
+      right: 0;
+      z-index: 1;
+      box-shadow: -4px 7px 20px 0px rgb(0 0 0 / 75%);
+      .img-header {
+        background: url("https://yamagata-printing.com/wp-content/uploads/sites/3/singapore-lion.jpg");
+        height: 200px;
+      }
+
+      .description-wrapper {
+        margin-top: -20px;
+        color: white;
+        .title {
+          background: #72cdd2;
+          font-size: 24px;
+          padding: 10px 30px;
+        }
+        .description {
+          padding: 10px 30px;
+          font-weight: 200;
+          font-size: 16px;
+        }
+
+        .overlay-footer-wrarpper {
+          display: flex;
+          align-items: center;
+          margin-bottom: 10px;
+        }
+      }
+    }
+  }
+}
